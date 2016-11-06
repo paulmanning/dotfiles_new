@@ -1,0 +1,16 @@
+alias cat='ccat --bg=dark'
+alias ccat='ccat --bg=dark'
+# alias tm="tmux"
+# alias tls="tmux list-session"
+# alias tat="tmux attach-session -d -t"
+alias mux="tmuxinator"
+alias update='sudo softwareupdate -i -a; brew update; brew upgrade; brew cleanup; npm update npm -g; npm update -g; sudo gem update --system; sudo gem update; ~/updateVimBundles.sh'
+alias ic='cd ~/Library/Mobile\ Documents/com~apple~CloudDocs'
+alias goog="googler" 
+alias sl="ls -ltra | grep '\->'" 
+alias pandora=pianobar
+alias e=vim
+
+#taskwarrior
+#source ~/.task/.task-aliases
+

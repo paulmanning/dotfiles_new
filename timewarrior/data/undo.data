@@ -1,0 +1,190 @@
+txn:
+  type: interval
+  before: 
+  after: {"start":"20161008T171857Z"}
+txn:
+  type: interval
+  before: {"start":"20161008T171857Z"}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20161008T171857Z","end":"20161008T171900Z"}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20161008T171916Z"}
+txn:
+  type: interval
+  before: {"start":"20161008T171916Z"}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20161008T171916Z","end":"20161008T171922Z"}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20161008T171928Z","tags":["Research"]}
+txn:
+  type: interval
+  before: {"start":"20161008T171928Z","tags":["Research"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20161008T171928Z","end":"20161008T171934Z","tags":["Research"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20161008T160000Z","end":"20161008T172038Z","tags":["Sample"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20161022T185100Z"}
+txn:
+  type: interval
+  before: {"start":"20161022T185100Z"}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20161022T185100Z","end":"20161022T185102Z"}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20161022T185107Z"}
+txn:
+  type: interval
+  before: {"start":"20161022T185100Z","end":"20161022T185102Z"}
+  after: 
+  type: interval
+  before: 
+  after: {"start":"20161022T185100Z","end":"20161022T185102Z","tags":["new tag"]}
+txn:
+  type: interval
+  before: {"start":"20161022T185107Z"}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20161022T185107Z","end":"20161022T185244Z"}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20161022T185321Z","tags":["chores","weekend"]}
+txn:
+  type: interval
+  before: {"start":"20161022T185321Z","tags":["chores","weekend"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20161022T185321Z","end":"20161022T185422Z","tags":["chores","weekend"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20161022T185422Z","tags":["help"]}
+txn:
+  type: interval
+  before: {"start":"20161022T185422Z","tags":["help"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20161022T185422Z","end":"20161022T185433Z","tags":["help"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20161022T225744Z"}
+txn:
+  type: interval
+  before: {"start":"20161022T225744Z"}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20161022T225744Z","end":"20161022T225751Z"}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20161022T225754Z"}
+txn:
+  type: interval
+  before: {"start":"20161022T225754Z"}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20161022T225754Z","end":"20161022T225757Z"}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20161022T225915Z","tags":["Software","Using tags"]}
+txn:
+  type: interval
+  before: {"start":"20161022T225915Z","tags":["Software","Using tags"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20161022T225915Z","end":"20161022T225927Z","tags":["Software","Using tags"]}
+txn:
+  type: config
+  before: 
+  after: tags.Software.description = Learning about new software
+txn:
+  type: interval
+  before: 
+  after: {"start":"20161022T160000Z","end":"20161022T170000Z","tags":["sample"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20161022T230145Z","tags":["Software","Using tags"]}
+txn:
+  type: interval
+  before: {"start":"20161022T230145Z","tags":["Software","Using tags"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20161022T230145Z","end":"20161022T230149Z","tags":["Software","Using tags"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20160601T070000Z","end":"20160701T070000Z","tags":["training"]}
+  type: interval
+  before: 
+  after: {"tags":["training"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20161021T070000Z","end":"20161022T230412Z","tags":["learning"]}
+txn:
+  type: interval
+  before: {"start":"20161022T225754Z","end":"20161022T225757Z"}
+  after: 
+txn:
+  type: interval
+  before: {"start":"20161022T225754Z","end":"20161022T225757Z"}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20161008T171934Z","end":"20161022T185100Z"}
+txn:
+  type: interval
+  before: {"start":"20161008T171934Z","end":"20161022T185100Z"}
+  after: 
+txn:
+  type: interval
+  before: {"start":"20161008T171934Z","end":"20161022T185100Z"}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20161008T171934Z","end":"20161015T180517Z"}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20161015T180517Z","end":"20161022T185100Z"}

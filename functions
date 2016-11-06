@@ -1,0 +1,33 @@
+#
+function e() {#
+    atom "${1:-.}";#
+}
+
+function gi() {
+    curl - L - s https: //www.gitignore.io/api/$@ ;}
+        mkdot() {
+            cp - R.$1.dotfiles / $1
+            mv.$1.orig / .$1.orig
+            ln - s.dotfiles / $1.$1
+        }
+    note() {
+        local id = "$1"
+        local dir = "$HOME/workflow/projects"
+        local file = "$dir/$id.org"
+
+        mkdir - p $dir
+        e "$file"
+    }
+
+    alias n=note
+
+    # of "Test! @house ::misc #tom 8am #tom 8pm //notes"
+
+    function of() {
+        osascript << EOT
+        tell application "OmniFocus"
+        parse tasks into
+        default document with transport text "$@"
+        end tell
+        EOT
+    }
